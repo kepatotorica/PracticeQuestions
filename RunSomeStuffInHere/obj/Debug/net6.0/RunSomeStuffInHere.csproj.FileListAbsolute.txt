@@ -1,0 +1,15 @@
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\bin\Debug\net6.0\RunSomeStuffInHere.exe
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\bin\Debug\net6.0\RunSomeStuffInHere.deps.json
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\bin\Debug\net6.0\RunSomeStuffInHere.runtimeconfig.json
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\bin\Debug\net6.0\RunSomeStuffInHere.dll
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\bin\Debug\net6.0\RunSomeStuffInHere.pdb
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.csproj.AssemblyReference.cache
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.AssemblyInfoInputs.cache
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.AssemblyInfo.cs
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.csproj.CoreCompileInputs.cache
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.dll
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\refint\RunSomeStuffInHere.dll
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.pdb
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\RunSomeStuffInHere.genruntimeconfig.cache
+C:\Users\kepat\source\repos\RunSomeStuffInHere\RunSomeStuffInHere\obj\Debug\net6.0\ref\RunSomeStuffInHere.dll
