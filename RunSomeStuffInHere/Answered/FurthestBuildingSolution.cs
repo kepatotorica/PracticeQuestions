@@ -1,6 +1,6 @@
 ﻿//https://leetcode.com/problems/furthest-building-you-can-reach/
 
-public class Solution
+public class FurthestBuildingSolution
 {
   public int FurthestBuilding(int[] heights, int bricks, int ladders)
   {
