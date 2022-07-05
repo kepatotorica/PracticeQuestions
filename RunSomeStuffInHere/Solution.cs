@@ -1,23 +1,29 @@
-﻿//https://leetcode.com/problems/furthest-building-you-can-reach/
-
+﻿//https://leetcode.com/problems/longest-consecutive-sequence/
 public class Solution
 {
-  public int FurthestBuilding(int[] heights, int bricks, int ladders)
+  public int LongestConsecutive(int[] nums)
   {
-    var buildingsJumped = 0;
-    var sortedList = new List<int>();
-    for (int i = 0; i <= heights.Length - 2; i++)// -2 don't want to get out of the array
+    var ordered = nums.OrderBy(i => i).Distinct();
+
+    var longestRun = 0;
+    var currentRun = 0;
+    int? lastValue = null;
+    foreach (var item in ordered)
     {
-      var gapSize = heights[i + 1] - heights[i];
-      sortedList.Add(gapSize > 0 ? gapSize : 0);
-      sortedList = sortedList.OrderBy(_ => _).ToList();
-      if (i >= ladders)
+      if (item - lastValue == 1 || lastValue == null)
       {
-        var traversable = sortedList.Take(sortedList.Count - ladders);
-        if (traversable.Sum() > bricks) break;
+        currentRun++;
       }
-      buildingsJumped++;
+      else if (item - lastValue != 1)
+      {
+        currentRun = 1;
+      }
+      if (currentRun > longestRun)
+      {
+        longestRun = currentRun;
+      }
+      lastValue = item;
     }
-    return buildingsJumped > heights.Length ? heights.Length : buildingsJumped;
+    return longestRun;
   }
 }
